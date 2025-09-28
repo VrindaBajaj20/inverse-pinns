@@ -1,11 +1,9 @@
--f https://data.pyg.org/whl/torch-1.13.0+cpu.html
-torch-scatter
+torch==2.2.0+cpu -f https://download.pytorch.org/whl/cpu/torch_stable.html
+numpy>=1.24.3
 scipy
+matplotlib>=3.7.1
 scikit-learn
 pandas
+streamlit>=1.28.0
 yfinance
 hmmlearn
-torch>=2.5.0
-numpy>=1.24.3
-matplotlib>=3.7.1
-streamlit>=1.28.0
