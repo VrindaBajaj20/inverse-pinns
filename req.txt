@@ -1,9 +1,9 @@
-torch>=2.2.0
+streamlit>=1.28.0
+torch>=1.13
 numpy==1.25.2
 scipy
 matplotlib
 scikit-learn
 pandas
-streamlit>=1.28.0
 yfinance
 hmmlearn
