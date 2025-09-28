@@ -1,0 +1,15 @@
+# Virtual environments
+venv311/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python packages
+*.egg-info/
+dist/
+build/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
